@@ -1,8 +1,8 @@
 # _heARTconnection_
-### _A therapeautic arts social media web app_
+### A therapeautic arts social media web app
 
-##
-### Prototype WIP
+#### _Built with Next.js, MongoDB,Node.js, and Typescript_ 
+### React Component Planning
 <p align="center">
-<img src=./readme-assets/Register.png width="70%">
+<img src=./readme-assets/ex1.png width="100%">
 </p>
