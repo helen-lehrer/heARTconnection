@@ -23,7 +23,7 @@
     }
   },
   "include": [
-    "mongodb.js",
+    "src/server/api/database.service.ts",
     ".eslintrc.cjs",
     "next-env.d.ts",
     "**/*.ts",
