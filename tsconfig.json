@@ -18,10 +18,12 @@
     "noUncheckedIndexedAccess": true,
     "baseUrl": ".",
     "paths": {
-      "~/*": ["./src/*"]
+      "~/*": ["./src/*"],
+      "@lib/": ["lib/*"]
     }
   },
   "include": [
+    "mongodb.js",
     ".eslintrc.cjs",
     "next-env.d.ts",
     "**/*.ts",
